@@ -1,8 +1,8 @@
 //-------------------------------------------
 // Program Name: Metric Converter
 // Purpose: This program converts two
-//			English measurements to
-//			metric.
+//          English measurements to
+//          metric.
 // Coder: Josh Megahan
 // Date: 9/24/2014
 // Last Modified: Josh Megahan, 9/25/2015
