@@ -18,7 +18,7 @@ using namespace std;
 
 long julian (int year, int month, int day);
 
-long processDate(string &date);
+long processDate(string date);
 void printOut(string date);
 void readIn(int (&arr)[3]);
 void assignDates(int &y, int &m, int &d, int(&arr)[3]);
@@ -48,7 +48,7 @@ int main(void)
 	return 0;
 }
 
-long processDate(string &date)
+long processDate(string date)
 {
 	int dateArr[3];
 	int d, m, y;
